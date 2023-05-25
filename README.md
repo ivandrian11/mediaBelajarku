@@ -2,6 +2,12 @@
 # Meida Belajarku
 Aplikasi online course. Terdapat fitur untuk melakukan pencarian, pembayaran (integrasi Midtrans), akses pembelajaran, hingga akses sertikat.
 
+## Desain
+UI Design dibuat oleh saya juga, desain dapat diakses [disini](https://www.figma.com/file/BWZlH9lsy7thua2Op5WSmG/Skripsi?type=design&node-id=0%3A1&t=bBzu5Kby4YN5NExr-1).
+
+## Backend
+Untuk backend, saya menggunakan API dengan framework Django dan dapat diakses [disini](https://github.com/ivandrian11/mb-mobile-backend).
+
 ## Preview
 [![run](https://lh3.googleusercontent.com/drive-viewer/AFGJ81rPy1K36z0ZpJO6xPm5LBxeP_cIcPIUqg3OzSibwlrBdr6eH4pFFkGPLcFo-Ol6WD94bcn_o21Vm0KNfRbpLELMnIrttA=w1366-h625)](#app)
 [![run](https://lh3.googleusercontent.com/drive-viewer/AFGJ81o0NZwMmjf-62a1d2KC7l1F1-KYv2S2udRKQRXbRTJN4QSpskU92ve5Pf9MPW8xfjAEeB0lymxmoDXV2W259jcahjn1Tw=w1366-h625)](#app)
